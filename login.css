@@ -1,0 +1,20 @@
+fieldset{
+            align-items: center;
+            text-align: center;
+        }
+legend{
+        text-align: center
+}
+body{
+        align-items: middle center; 
+    }
+p   {
+    align-items:right;
+    }
+.button{
+    color:rebeccapurple ;
+    text-align: center;
+    border-bottom: 1px solid green ;
+    font: size 20px;
+    cursor: pointer;
+}

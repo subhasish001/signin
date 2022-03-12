@@ -1,0 +1,16 @@
+body {background-color:greenyellow;}
+    h1 {font: size 185px;
+        color: rgb(235, 10, 10); font: size 25px;
+        }
+    h2 {font: size 24px;
+        color:blue; font-weight: bold;
+        }
+      li{
+          font:size 15px;
+            color:rgb(255, 0, 234);            
+        } 
+      
+  
+   
+    div{ text-align: right;
+    }
